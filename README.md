@@ -1,5 +1,5 @@
 # Introduction
-Hello, I'm Pulpitaro and I am a hobbyst. I want to make projects that are useful for people \
+Hello, I'm Pulpitaro and I am a hobbyst. I want to make projects that are useful for people 
 
 # How to use READMEs?
 Markdown is the Markdown, it's for some stupid developers who use only HTML in their READMEs: \
@@ -12,11 +12,11 @@ Hyperlink: \
 Image: \
 ![Hi there](https://raw.githubusercontent.com/pulpitaro/pulpitaro/refs/heads/main/Image.png) 
 
-List 1: \
+List 1: 
 * Hi there
   * Hi there 
 
-List 2: \
+List 2: 
 - Hi there
   - Hi there 
 
