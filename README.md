@@ -62,9 +62,9 @@ BlockQuote:
 > Hi there
 
 Table: 
-| Col1 | Col2 |
-|------|------|
-| com1 | com2 |
+| Col1  | Col2  |
+|-------|-------|
+| cell1 | cell2 |
 
 
 <!--
