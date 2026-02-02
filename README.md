@@ -63,7 +63,7 @@ BlockQuote:
 
 Table: 
 | Col1 | Col2 |
-###############
+---------------
 | com1 | com2 |
 
 
