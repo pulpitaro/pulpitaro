@@ -2,8 +2,8 @@
 Hello, I'm Pulpitaro and I am a hobbyst. I want to make projects that are useful for people 
 
 # How to use READMEs?
-Markdown is the Markdown, it's for some stupid developers who use only HTML in their READMEs: \
-\
+Markdown is the Markdown, it's for some stupid developers who use HTML in their Markdown READMEs: \
+
 End of line: \
 
 Hyperlink: \
@@ -61,8 +61,12 @@ ___Hi there___
 BlockQuote: 
 > Hi there
 
-Table: \
-####
+Table: 
+| Col1 | Col2 |
+###############
+| com1 | com2 |
+
+
 <!--
 **pulpitaro/pulpitaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
