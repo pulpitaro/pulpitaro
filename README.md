@@ -2,7 +2,7 @@
 Hello, I'm Pulpitaro and I am a hobbyst. I want to make projects that are useful for people 
 
 # How to use READMEs?
-Markdown is the Markdown, it's for some stupid developers who use HTML in their Markdown READMEs: \
+Markdown is the Markdown, it's for some stupid developers who use HTML in their Markdown READMEs: 
 
 End of line: \
 
