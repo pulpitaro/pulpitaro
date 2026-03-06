@@ -4,7 +4,10 @@ Hello, I'm Pulpitaro and I am a hobbyst. I want to make projects that are useful
 # How to use READMEs?
 Markdown is the Markdown, it's for some stupid developers who use HTML in their Markdown's READMEs: 
 
-End of line: \
+End of line:
+
+
+Unsigned char: \
 
 Hyperlink: \
 [Hi there](https://raw.githubusercontent.com/pulpitaro/pulpitaro/refs/heads/main/Image.png) 
