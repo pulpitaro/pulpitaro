@@ -75,12 +75,12 @@ Table:
 
 Here are some ideas to get I started:
 
-- 🔭 I’m currently working on RTX 3060 and I5-12600K
+- 🔭 I’m currently working on J3355 SoC
 - 🌱 I’m currently learning vocals
 - 👯 I’m looking to collaborate on drinking bear
 - 🤔 I’m looking for help with 
-- 💬 Ask me about my dick's long 
+- 💬  Ask me about my pipeline's long (it is what it should be) 
 - 📫 How to reach me: Just knock on the door
 - 😄 Pronouns: pulpit/aro
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I have a fun from the facts
 -->
